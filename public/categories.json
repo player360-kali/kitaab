@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0",
+    "title": "Divanlar",
+    "img": "/imgs/divan.png",
+    "type": "divan"
+  },
+  {
+    "id": "1",
+    "title": "Kreslolar",
+    "img": "/imgs/kreslo.png",
+    "type": "kreslo"
+  },
+  {
+    "id": "2",
+    "title": "Stollar",
+    "img": "/imgs/stol.png",
+    "type": "stol"
+  },
+  {
+    "id": "3",
+    "title": "Stullar",
+    "img": "/imgs/stul.png",
+    "type": "stul"
+  },
+  {
+    "id": "4",
+    "title": "Kravatlar",
+    "img": "/imgs/kravat.png",
+    "type": "kravat"
+  }
+]

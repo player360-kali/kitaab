@@ -1,0 +1,240 @@
+[
+  {
+    "id": "0",
+    "title": "Lux Comfort Grey",
+    "text": "Yumshoq va keng divan, zamonaviy interyer uchun ideal tanlov",
+    "cost": "7 500 000 so'm",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/divan/0.png",
+    "type": "divan"
+  },
+
+  {
+    "id": "1",
+    "title": "Royal Classic Beige",
+    "text": "Klassik uslubdagi hashamatli divan, qulaylik va nafislik uyg‘unligi.",
+    "cost": "9 300 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/divan/1.png",
+    "type": "divan"
+  },
+  {
+    "id": "2",
+    "title": "Modern Loft Black",
+    "text": "Minimalistik va zamonaviy dizayndagi divan, har qanday xonaga mos keladi.",
+    "cost": "8 500 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/divan/2.png",
+    "type": "divan"
+  },
+
+  {
+    "id": "3",
+    "title": "Cozy Home Blue",
+    "text": "Issiq va shinam muhit yaratish uchun qulay divan, yuqori sifatli mato bilan qoplangan.",
+    "cost": "7 500 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/divan/3.png",
+    "type": "divan"
+  },
+
+  {
+    "id": "4",
+    "title": "Elite Comfort Brown",
+    "text": "Hashamatli va qulay kreslo, klassik va zamonaviy interyerga mos.",
+    "cost": "3 200 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/kreslo/4.png",
+    "type": "kreslo"
+  },
+
+  {
+    "id": "5",
+    "title": "Modern Relax Grey",
+    "text": "Yumshoq va zamonaviy dizayndagi kreslo, dam olish uchun ideal.",
+    "cost": "2 800 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/kreslo/5.png",
+    "type": "kreslo"
+  },
+
+  {
+    "id": "6",
+    "title": "Cozy Home Beige",
+    "text": "Yumshoq mato bilan qoplangan, chiroyli va shinam kreslo.",
+    "cost": "3 000 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/kreslo/6.png",
+    "type": "kreslo"
+  },
+
+  {
+    "id": "7",
+    "title": "Royal Velvet Blue",
+    "text": "Hashamatli baxmal matoli kreslo, nafis interyer uchun mos.",
+    "cost": "3 500 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/kreslo/7.png",
+    "type": "kreslo"
+  },
+
+  {
+    "id": "8",
+    "title": "Classic Wood Table",
+    "text": "Mustahkam yog‘ochdan yasalgan, har qanday interyerga mos keluvchi klassik stol.",
+    "cost": "2 500 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stol/8.png",
+    "type": "stol"
+  },
+
+  {
+    "id": "9",
+    "title": "Classic Wood Table",
+    "text": "Metall va shaffof shisha kombinatsiyasidagi zamonaviy stol, yengillik va nafislikni ta’minlaydi.",
+    "cost": "3 200 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stol/9.png",
+    "type": "stol"
+  },
+
+  {
+    "id": "10",
+    "title": "Compact Dining Table",
+    "text": "Mustahkam yog‘ochdan yasalgan, har qanday interyerga mos keluvchi klassik stol.",
+    "cost": "2 000 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stol/10.png",
+    "type": "stol"
+  },
+
+  {
+    "id": "11",
+    "title": "Luxury Marble Table",
+    "text": "Mustahkam yog‘ochdan yasalgan, har qanday interyerga mos keluvchi klassik stol.",
+    "cost": "2 500 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stol/11.png",
+    "type": "stol"
+  },
+
+  {
+    "id": "12",
+    "title": "Comfort Chair",
+    "text": "Yumshoq o‘rindiqli va ergonomik dizayndagi qulay stul.",
+    "cost": "750 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stul/12.png",
+    "type": "stul"
+  },
+
+  {
+    "id": "13",
+    "title": "Modern Dining Chair",
+    "text": "Zamonaviy va bardoshli ovqatlanish stuli, minimalist dizaynga ega.",
+    "cost": "850 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stul/13.png",
+    "type": "stul"
+  },
+
+  {
+    "id": "14",
+    "title": "Classic Wood Chair",
+    "text": "Mustahkam yog‘ochdan yasalgan, klassik uslubdagi stul.",
+    "cost": "680 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stul/14.png",
+    "type": "stul"
+  },
+
+  {
+    "id": "15",
+    "title": "Luxury Velvet Chair",
+    "text": "Hashamatli baxmal matoli stul, uy yoki restoran uchun ideal tanlov.",
+    "cost": "1 100 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/stul/15.png",
+    "type": "stul"
+  },
+
+  {
+    "id": "16",
+    "title": "Classic Wood Bed",
+    "text": "Mustahkam yog‘ochdan yasalgan, har qanday interyerga mos keluvchi klassik karavot.",
+    "cost": "4 500 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/karavot/16.png",
+    "type": "karavot"
+  },
+
+  {
+    "id": "17",
+    "title": "Modern Upholstered Bed",
+    "text": "Yumshoq mato bilan qoplangan zamonaviy va qulay karavot.",
+    "cost": "5 200 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/karavot/17.png",
+    "type": "karavot"
+  },
+
+  {
+    "id": "18",
+    "title": "Minimalist Metal Bed",
+    "text": "Mustahkam metall karkasli, ixcham va zamonaviy dizayndagi karavot.",
+    "cost": "3 800 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/karavot/18.png",
+    "type": "karavot"
+  },
+
+  {
+    "id": "19",
+    "title": "Luxury King Size Bed",
+    "text": "Hashamatli va keng, ortopedik matrasga mos keluvchi yuqori sifatli karavot.",
+    "cost": "6 500 000 so‘m",
+    "width": "220 sm",
+    "height": "85 sm",
+    "deep": "90 sm",
+    "img": "/imgs/karavot/19.png",
+    "type": "karavot"
+  }
+]
